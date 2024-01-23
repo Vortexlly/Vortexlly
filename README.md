@@ -5,6 +5,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+
+![Profile image](no__internet.gif)
+
 #
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
